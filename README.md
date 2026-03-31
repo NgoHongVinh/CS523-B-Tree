@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# VISUALIZER THUẬT TOÁN B-Tree
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📘 Thông Tin Bài Tập
+- **Trường**: UIT-VNUHCM
+- **Tên môn học:** Cấu Trúc Dữ Liệu và Giải Thuật Nâng Cao
+- **Lớp:** CS523.Q21
+- **Giảng viên giảng dạy:** MSc Nguyễn Thanh Sơn
+- **Sinh viên thực hiện:** Ngô Hồng Vinh
+- **MSSV:** 24522016
 
-View your app in AI Studio: https://ai.studio/apps/b285caef-32c2-4563-b9cc-52731cb3fa93
+---
 
-## Run Locally
+## 📌 Giới Thiệu Đề Tài
 
-**Prerequisites:**  Node.js
+Đây là project xây dựng **trình mô phỏng (visualizer) thuật toán B-Tree** – một thuật toán làm chỉ mục để tìm kiếm dữ liệu quá lớn và không thể chứa toàn bộ trong bộ nhớ chính (RAM).
+
+## Hướng Dẫn Sử Dụng
+- Vui lòng tham khảo [file](24522016-Exercise6-CS523.Q21.pdf)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
